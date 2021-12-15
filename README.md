@@ -17,4 +17,12 @@ The purchase of a car can take a considerable amount of time. Deciding whether a
 
 [WriteUp](https://github.com/Rawanawh/CarPricePredicting-LinearRegression/blob/main/predicting%20CarPrices%20writeup.pdf)
 
+### Conclusion 
 
+Linear Regrassion model MSE Test Score = 0.005
+
+Lasso Regression model after feature selection MSE Test Score = 0.009
+
+Ridge Regression Model  MSE Test Score = 0.005
+
+Best model is Linear Regrassion & Ridge Regrassion with MSE = 0.005
